@@ -5,13 +5,13 @@
   <h2>The Wild Oasis</h2>
 
   <h3>
-    <!-- <a href="https://the-wild-oasis-alamin.vercel.app"> -->
+    <a href="https://wild-oasis-a-fouda.netlify.app/login">
       <strong>Demo Website</strong>
     </a>
   </h3>
 
   <div align="center">
-    
+    <a href = 'https://wild-oasis-a-fouda.netlify.app/login'>View demo</a>
   </div>
 
   <hr>
@@ -157,7 +157,7 @@ npm run dev
 ```
 
 ### Author
-
+Ahmed Khaled Fouda
 ### Acknowledgments
 
 This app was developed as part of the [Udemy course](https://www.udemy.com/course/the-ultimate-react-course) "The Ultimate React Course 2024: React, Redux & More" by [Jonas Smechmann](https://twitter.com/jonasschmedtman). Special thanks to Jonas for his exceptional teaching and guidance during the course.
